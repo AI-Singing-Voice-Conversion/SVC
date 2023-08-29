@@ -55,4 +55,4 @@
 <img src="./images/1-2.png" width="40%" height="70%"/>
 
 ## YouTube
-[![Video Label](http://img.youtube.com/vi/ge0Lw5I1Tw8?si=j7os68X2IeeQxiBF/0.jpg)](https://youtu.be/ge0Lw5I1Tw8?si=EbuQLQ6TCsdypFmW&t=37)
+[![Video Label](http://img.youtube.com/vi/ge0Lw5I1Tw8/0.jpg)](https://youtu.be/ge0Lw5I1Tw8?si=EbuQLQ6TCsdypFmW&t=37)
