@@ -16,7 +16,14 @@
 
 ## Dataset
 
-* 113,006 images
+* 2 hours audio file (15 minutes of speaking & 1 hour 45 minutes of singing)
+* Mono channel 16bit 44,100khz
+* .wav file
+* No backgroun sound (Noise removal)
+* Constant voice size
+* The tone is constant, but the range is varied
+* Voice volume normalize
+* Split by 10 seconds (650 audio files)
 
 <p align="left">
  <img src="./images/2.png" width="30%" height="30%"/>
