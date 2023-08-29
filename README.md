@@ -25,12 +25,6 @@
 * Voice volume normalize
 * Split by 10 seconds (650 audio files)
 
-<p align="left">
- <img src="./images/2.png" width="30%" height="30%"/>
- <img src="./images/3.png" width="30%" height="30%"/>
- <img src="./images/1-8.png" width="100%" height="100%"/>
-</p>
-
 ## Model
   
 * OCR (CNN - LSTM - CTC Loss)
@@ -39,17 +33,8 @@
 
 ## Optimizer
 
-* Adam
-* Lr = 0.001
-* Batch size = 64
-* Epochs = 100
-
-<img src="./images/1-6.png" width="50%" height="60%"/>
 
 ## Result
 
 * Train Accuracy : 45.07%
 * Val Accuracy : 59.35%
-
-<img src="./images/4-2.png" width="100%" height="100%"/>
-<img src="./images/1-2.png" width="40%" height="70%"/>
