@@ -16,6 +16,7 @@
 
 ## Dataset
 
+* Voice: [Yeongjin Kim](https://github.com/kyj950514 "김영진")
 * 2 hours audio file (15 minutes of speaking & 1 hour 45 minutes of singing)
 * Mono channel 16bit 44,100khz
 * .wav file
@@ -26,15 +27,14 @@
 * Split by 10 seconds (650 audio files)
 
 ## Model
-  
-* OCR (CNN - LSTM - CTC Loss)
 
-<img src="./images/3-1.png" width="70%" height="70%"/>
+<img src="./images/1.png" width="70%" height="70%"/>
+<img src="./images/2.png" width="70%" height="70%"/>
 
-## Optimizer
+## DDSP-SVC
 
+<img src="./images/3.jfif" width="70%" height="70%"/>
 
-## Result
+## RVC
 
-* Train Accuracy : 45.07%
-* Val Accuracy : 59.35%
+<img src="./images/4.png" width="70%" height="70%"/>
