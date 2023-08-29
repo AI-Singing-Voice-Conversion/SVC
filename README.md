@@ -52,6 +52,18 @@
 
 <img src="./images/1.png" width="40%" height="40%"/>
 
+* NVIDIA V100 GPU
+* 10,000 Epochs
+* 4 hours 30 minutes
+
+
+
 ## RVC
 
 <img src="./images/3.jfif" width="40%" height="40%"/>
+
+* NVIDIA V100 GPU
+* 600 Epochs
+* 1 hours 20 minutes
+
+
