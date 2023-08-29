@@ -28,13 +28,18 @@
 
 ## Model
 
-<img src="./images/1.png" width="70%" height="70%"/>
+* DDSP-SVC
+
 <img src="./images/2.png" width="70%" height="70%"/>
+
+* RVC
+
+<img src="./images/4.jpg" width="70%" height="70%"/>
 
 ## DDSP-SVC
 
-<img src="./images/3.jfif" width="70%" height="70%"/>
+<img src="./images/1.png" width="70%" height="70%"/>
 
 ## RVC
 
-<img src="./images/4.jpg" width="70%" height="70%"/>
+<img src="./images/3.jfif" width="70%" height="70%"/>
