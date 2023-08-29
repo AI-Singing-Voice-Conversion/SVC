@@ -60,7 +60,7 @@ https://github.com/AI-Singing-Voice-Conversion/SVC/assets/33478798/8f0e641a-b803
 
 ## RVC
 
-<img src="./images/3.png" width="45%" height="45%"/>
+<img src="./images/3.png" width="50%" height="50%"/>
 
 * NVIDIA V100 GPU
 * 600 Epochs
