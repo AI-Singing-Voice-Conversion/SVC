@@ -29,17 +29,29 @@
 ## Model
 
 * DDSP-SVC
+ * New open source singing voice conversion project dedicated to the development of free AI voice changer software that can be popularized on personal computers.
+ * Its training and synthesis have much lower requirements for computer hardware
+ * The training time can be shortened by orders of magnitude, which is close to the training speed of RVC.
+ * When performing real-time voice changing, the hardware resource consumption of this project is significantly lower than that of SO-VITS-SVC，but probably slightly higher than the latest version of RVC.
 
 <img src="./images/2.png" width="70%" height="70%"/>
 
+</br></br>
+
 * RVC
+ * Reduce tone leakage by replacing the source feature to training-set feature using top1 retrieval.
+ * Easy and fast training, even on relatively poor graphics cards.
+ * Training with a small amount of data also obtains relatively good results (>=10min low noise speech recommended)
+ * Supporting model fusion to change timbres (using ckpt processing tab->ckpt merge)
+ * Easy-to-use Webui interface.
+ * Use the UVR5 model to quickly separate vocals and instruments.
 
 <img src="./images/4.jpg" width="70%" height="70%"/>
 
 ## DDSP-SVC
 
-<img src="./images/1.png" width="70%" height="70%"/>
+<img src="./images/1.png" width="50%" height="50%"/>
 
 ## RVC
 
-<img src="./images/3.jfif" width="70%" height="70%"/>
+<img src="./images/3.jfif" width="50%" height="50%"/>
