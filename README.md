@@ -34,7 +34,7 @@
   * The training time can be shortened by orders of magnitude, which is close to the training speed of RVC.
   * When performing real-time voice changing, the hardware resource consumption of this project is significantly lower than that of SO-VITS-SVC，but probably slightly higher than the latest version of RVC.
 
-ㅤㅤ<img src="./images/2.png" width="70%" height="70%"/>
+ㅤㅤㅤ<img src="./images/2.png" width="70%" height="70%"/>
 
 </br>
 
@@ -46,12 +46,12 @@
   * Easy-to-use Webui interface.
   * Use the UVR5 model to quickly separate vocals and instruments.
 
-ㅤㅤ<img src="./images/4.jpg" width="70%" height="70%"/>
+ㅤㅤㅤ<img src="./images/4.jpg" width="70%" height="70%"/>
 
 ## DDSP-SVC
 
-<img src="./images/1.png" width="30%" height="30%"/>
+<img src="./images/1.png" width="40%" height="40%"/>
 
 ## RVC
 
-<img src="./images/3.jfif" width="30%" height="30%"/>
+<img src="./images/3.jfif" width="40%" height="40%"/>
