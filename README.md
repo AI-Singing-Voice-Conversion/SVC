@@ -4,8 +4,8 @@
 
 ## People
 
-* [Yeongjin Kim](https://github.com/youngjeanskr "김영진")
-* [Heewon Seo](https://github.com/heewonsuhh "서희원")
+* [YoungJeansKR](https://github.com/youngjeanskr "김영진")
+* [heewonsuhh](https://github.com/heewonsuhh "서희원")
 
 ## Language / IDE
 
