@@ -4,7 +4,7 @@
 
 ## People
 
-* [Yeongjin Kim](https://github.com/kyj950514 "김영진")
+* [Yeongjin Kim](https://github.com/youngjeanskr "김영진")
 * [Heewon Seo](https://github.com/heewonsuhh "서희원")
 
 ## Language / IDE
@@ -16,7 +16,7 @@
 
 ## Dataset
 
-* Voice: [Yeongjin Kim](https://github.com/kyj950514 "김영진")
+* Voice: [Yeongjin Kim](https://github.com/youngjeanskr "김영진")
 * 2 hours audio file (15 minutes of speaking & 1 hour 45 minutes of singing)
 * Mono channel 16bit 44,100khz
 * .wav file
