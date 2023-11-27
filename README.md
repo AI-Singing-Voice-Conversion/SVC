@@ -68,6 +68,6 @@ https://github.com/AI-Singing-Voice-Conversion/SVC/assets/33478798/8f0e641a-b803
 
 https://github.com/AI-Singing-Voice-Conversion/SVC/assets/33478798/d6f61b2c-b034-4231-abea-7b9b3dd75dea
 
-## Youtube
+## YouTube
 
 [![Video Label](http://img.youtube.com/vi/vbeKegNx7Zk/0.jpg)](https://youtu.be/vbeKegNx7Zk?feature=shared)
